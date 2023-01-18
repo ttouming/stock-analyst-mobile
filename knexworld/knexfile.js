@@ -1,5 +1,5 @@
 module.exports = {
-  client: "",
+  client: "mysql2",
   connection: {
     host: "localhost",
     database: "",
